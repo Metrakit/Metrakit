@@ -9,5 +9,16 @@ Property | Data
 **CI / CD** | [![Gitlab Badge](https://img.shields.io/badge/-Gitlab%20-2088FF?style=flat&logo=Gitlab&logoColor=white)](https://github.com/Metrakit/Metrakit) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/Metrakit/Metrakit)
 **Databases**  | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 **OS**  | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu) ![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&amp;logo=debian) ![OSX](https://img.shields.io/badge/-MacOS-black?style=flat-square&amp;logo=macos)
+**🚗**  | ![Audi](https://aleen42.github.io/badges/src/audi.svg)
 
 ![Metrakit's Github Stats](https://github-readme-stats-xi-ochre.vercel.app/api?username=Metrakit&theme=light&include_all_commits=true&show_icons=true&hide_border=true&count_private=true)
+
+**How to Reach me:**
+
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjordanejouffroy)
+![Hackernews](https://img.shields.io/hackernews/user-karma/metrakit?style=social)
+
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Metrakit.Metrakit" alt="visitors"/>
+</p>
+
